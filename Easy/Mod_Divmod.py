@@ -7,3 +7,4 @@ mod= a%b
 print(div)
 print(mod)
 print(f"({div}, {mod})")
+
